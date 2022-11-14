@@ -22,9 +22,11 @@ ul{
 }
 
 .container{
+  margin-left: 200px;
   display: flex;
-  justify-content:  center;
+  justify-content: center;
   flex-direction: row;
+  flex-wrap: wrap;
 }
 
 img {
@@ -32,6 +34,6 @@ img {
   height: 200px;
 }
 
-.contenedor-1,  .contenedor-2, .contenedor-3{
+.contenedor-1{
   padding: 5px;
 }
