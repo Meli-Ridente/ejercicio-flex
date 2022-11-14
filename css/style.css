@@ -1,0 +1,17 @@
+.barra-principal{
+  margin: 0px;
+}
+
+.titulo{
+  display: inline;
+  margin-left: 450px;
+}
+
+.rojo{
+  color: red;
+}
+
+.buscar{
+  display: inline;
+  float: right;
+}
